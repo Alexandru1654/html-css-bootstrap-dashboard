@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+.text-white {
+    font-size: 17px;
+}
+
+.text {
+    width: 60%;
+    font-size: 17px;
+    color: gray;
+}
