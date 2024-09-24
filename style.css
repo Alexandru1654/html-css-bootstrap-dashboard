@@ -7,7 +7,45 @@
 }
 
 .text {
-    width: 60%;
     font-size: 17px;
     color: gray;
 }
+
+.container {
+    width: 1000px;
+}
+
+h1 {
+    display: inline-block;
+}
+
+.btn.btn-primary {
+    display: inline-block;
+    margin-left: 735px;
+}
+
+.box {
+    margin-right: 500px;
+}
+
+#date {
+    margin-right: 100px;
+}
+
+#action {
+    margin-left: 200px;
+}
+
+.row {
+    background-color: rgba(242,242,242,255);
+}
+
+#subject {
+    margin-left: 640px;
+    background-color: green;
+    color: white;
+    border-radius: 10%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
