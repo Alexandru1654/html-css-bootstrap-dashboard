@@ -28,24 +28,29 @@ h1 {
     margin-right: 500px;
 }
 
-#date {
+.date {
     margin-right: 100px;
 }
 
-#action {
+.action {
     margin-left: 200px;
 }
 
 .row {
     background-color: rgba(242,242,242,255);
+    border: 1px solid rgba(242, 242, 242, 255);
 }
 
-#subject {
-    margin-left: 640px;
+.subject {
+    margin-left: 660px;
     background-color: green;
     color: white;
     border-radius: 10%;
     padding-left: 10px;
     padding-right: 10px;
+}
+
+.actions {
+    margin-left: 150px;
 }
 
