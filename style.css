@@ -105,5 +105,37 @@ hr {
     width: 1150px;
 }
 
+.items {
+    padding-left: 230px;
+}
 
+.ite {
+    padding-left: 100px;
+}
+
+.contine {
+    width: 1000px;
+    margin: auto;
+}
+
+.special {
+    padding-left: 250px;
+}
+
+.it {
+    padding-left: 330px;
+}
+
+.item {
+    margin-left: 20px;
+    background-color: rgba(25,135,84,255);
+    color: white;
+    border-radius: 10%;
+    text-align: center;
+}
+
+.run {
+    background-color: rgba(242,242,242,255);
+    border: 1px solid rgba(242, 242, 242, 255);
+}
 
