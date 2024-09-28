@@ -52,7 +52,7 @@ h1 {
 }
 
 .actions {
-    margin-left: 150px;
+    margin-left: 50px;
     display: inline-block;
 }
 
@@ -88,6 +88,16 @@ h1 {
 
 .subje {
     margin-left: 660px;
+    background-color: rgba(255,193,7,255);
+    color: white;
+    border-radius: 10%;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+}
+
+.subjie {
+    margin-left: 400px;
     background-color: rgba(255,193,7,255);
     color: white;
     border-radius: 10%;
@@ -140,5 +150,13 @@ hr {
     border: 1px solid rgba(242, 242, 242, 255);
     height: 50px;
     width: 900px;
+}
+
+.subjecter {
+    background-color: rgba(25,135,84,255);
+    color: white;
+    border-radius: 10%;
+    text-align: center;
+    margin-left: 550px;
 }
 
