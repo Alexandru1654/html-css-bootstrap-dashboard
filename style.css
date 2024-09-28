@@ -52,7 +52,7 @@ h1 {
 }
 
 .actions {
-    margin-left: 50px;
+    margin-left: 130px;
     display: inline-block;
 }
 
@@ -160,3 +160,10 @@ hr {
     margin-left: 550px;
 }
 
+#state {
+    margin-left: 130px;
+}
+
+#action {
+    margin-left: 100px;
+}
